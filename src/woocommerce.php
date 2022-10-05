@@ -1,4 +1,5 @@
 <?php
+
 namespace App;
 
 if (defined('WC_ABSPATH')) {
